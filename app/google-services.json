@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "204433835861",
+    "project_id": "login-ffcd3",
+    "storage_bucket": "login-ffcd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204433835861:android:94c718b12cc02346c8d1dc",
+        "android_client_info": {
+          "package_name": "com.firstapp.login_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT8h1o-QJT9ZLbf4VwQE12_G1JSHcs6rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
